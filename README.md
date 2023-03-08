@@ -26,6 +26,7 @@
  </div>
  
  ### Main skills:
+ ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -33,6 +34,7 @@
 
 
 ### Studying in this moment:
+![AZURE](https://img.shields.io/badge/-AZURE-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-Spark-0D1117?style=for-the-badge&logo=spark&labelColor=0D1117&textColor=0D1117)&nbsp;
